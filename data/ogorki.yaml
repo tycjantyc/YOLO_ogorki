@@ -1,0 +1,9 @@
+train: ./train
+val: ./val
+test: ./test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ogorek']
